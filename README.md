@@ -48,10 +48,10 @@ Para simplificar o lançamento, operações como o fechamento da venda, envio de
 [(https://pixel-perfect-replay-48002.lovable.app)]
 
 ---
-
-Projeto desenvolvido como parte do desafio de criação de MVP para validar ideias usando IA como co-founder e ferramenta Lovable.
+Projeto desenvolvido como parte do desafio de criação de MVP para validar ideias usando IA como co-founder (foi utilizado o Gemini 3.1 Pro) e ferramenta Lovable.dev.
 
 ---
+
 
 
 
