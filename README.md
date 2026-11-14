@@ -49,15 +49,6 @@ Para simplificar o lançamento, operações como o fechamento da venda, envio de
 
 ---
 
-## Prints das telas
-
-![Landing Page](./prints/Pagina_Inicial.png)  
-![Formulário](./prints/Formulario_Descricao_pessoa.png)  
-![Lista de Sugestões](./prints/Ideias_de_Presentes.png)  
-![Painel de Administração](./prints/Area_do_Administrador.png)  
-
----
-
 Projeto desenvolvido como parte do desafio de criação de MVP para validar ideias usando IA como co-founder e ferramenta Lovable.
 
 ---
